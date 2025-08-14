@@ -103,10 +103,5 @@ use threatintel
 db.url_intel.find().pretty()
 ```
 
-You should see the malicious URLs and associated metadata ingested from URLhaus.
-
----
-
-Do you want me to also **write the final `etl.py` script** so it exactly matches this README and works end-to-end without any extra fixes? That would make the instructions fully actionable.
 
 
