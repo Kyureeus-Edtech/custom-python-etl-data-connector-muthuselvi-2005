@@ -1,0 +1,8 @@
+# MongoDB connection string
+MONGO_URI="mongodb://<USERNAME>:<PASSWORD>@<HOST>:<PORT>/<DB_NAME>"
+
+# Database name
+DB_NAME="threatintel"
+
+# Collection name
+COLLECTION="url_intel"
