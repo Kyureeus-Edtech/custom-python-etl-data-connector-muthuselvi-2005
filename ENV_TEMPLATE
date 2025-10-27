@@ -1,0 +1,15 @@
+# MongoDB Connection URI
+MONGO_URI=mongodb://localhost:27017
+
+# Database name
+MONGO_DB=threat_intel
+
+# Collection name
+COLLECTION_NAME=cve_full
+
+# Optional: Logging level (INFO, DEBUG, ERROR)
+LOG_LEVEL=INFO
+
+# Default Vendor/Product for test
+DEFAULT_VENDOR=microsoft
+DEFAULT_PRODUCT=windows_10
